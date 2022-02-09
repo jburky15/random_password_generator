@@ -4,7 +4,7 @@ import random
 lower = "abcdefghijklmnopqrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 numbers = "1234567890"
-symbols = "!@#$%^&*()-+=_{[]}?~><"
+symbols = "!@#$%^&*()-+=_{[]}?~><.,/€£¢"
 
 #Put them all together and give your new password a length (increase the length for better security)
 string = lower + upper + numbers + symbols
