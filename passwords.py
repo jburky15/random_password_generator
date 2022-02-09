@@ -10,7 +10,7 @@ symbols = "!@#$%^&*()-+=_{[]}?~><"
 string = lower + upper + numbers + symbols
 length = 16
 
-#Set the random password using the given values and length in a random order
+#Set the password using the given values and length in a random order
 password = "".join(random.sample(string, length))
 
 #Print our your new, random password
