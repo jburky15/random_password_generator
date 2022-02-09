@@ -5,3 +5,4 @@ Just a small, terminal based, program that will output a randomly generated (16 
 
 Includes lower case, upper case, numbers and symbols.
 
+Please note: You may have to modify the resulting password as not all services allow some of the symbols used.
