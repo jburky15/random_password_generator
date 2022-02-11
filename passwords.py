@@ -13,5 +13,5 @@ length = 16
 #Set the password using the given values and length in a random order
 password = "".join(random.sample(string, length))
 
-#Print our your new, random password
+#Print out your new, random password
 print("Your new password is: " + password)
